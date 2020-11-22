@@ -13,7 +13,6 @@ Unsolved problems:
 When testing creating products I did not have an owner component for two products, now I am trying to figure out how to remove those products. I also want to add a review schema.
 
 Front-end link:
-
 Back-end link:
 
 The back-end of this repo allows the front end to communicate when a user is trying to sign up, sign in, change password, and sign out. It also allows the user to create, show, update, and delete their product.
