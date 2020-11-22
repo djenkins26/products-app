@@ -10,9 +10,9 @@ curl "${API}${URL_PATH}/${ID}" \
 --header "Authorization: Bearer ${TOKEN}" \
 --data '{
     "product": {
+      "name": "'"${NAME}"'",
       "text": "'"${TEXT}"'"
     }
   }'
 
 echo
-# "name": "'"${NAME}"'",
