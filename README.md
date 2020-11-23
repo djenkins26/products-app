@@ -12,7 +12,7 @@ When planning for this project I made an ERD, wireframes, and user stories to st
 Unsolved problems:
 When testing creating products I did not have an owner component for two products, now I am trying to figure out how to remove those products. I also want to add a review schema.
 
-github.com/djenkins26/products-app-project2-client
+https://github.com/djenkins26/products-app-project2-client-
 
 https://whispering-atoll-59297.herokuapp.com
 
