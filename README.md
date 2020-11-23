@@ -12,8 +12,9 @@ When planning for this project I made an ERD, wireframes, and user stories to st
 Unsolved problems:
 When testing creating products I did not have an owner component for two products, now I am trying to figure out how to remove those products. I also want to add a review schema.
 
-Front-end link:
-Back-end link:
+github.com/djenkins26/products-app-project2-client-
+https://whispering-atoll-59297.herokuapp.com
+https://djenkins26.github.io/products-app-project2-client-/
 
 The back-end of this repo allows the front end to communicate when a user is trying to sign up, sign in, change password, and sign out. It also allows the user to create, show, update, and delete their product.
 
